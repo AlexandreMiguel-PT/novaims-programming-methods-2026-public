@@ -72,3 +72,5 @@ Desktop.ini
 
 # Note: uv.lock, pyproject.toml, and .python-version 
 # ARE NOT ignored so they can be shared with the team/students.
+pyproject.toml
+uv.lock
